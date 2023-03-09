@@ -6,14 +6,15 @@ export default function WorkExp() {
       </div>
       <div className="work-content">
         <p className="text">
-          Due to the Covid-19, I decided to applied for a program leave in
-          UNSW for one term. Although I got a bachelor's degree in mechanical
-          engineering at that time, I know little about the programming. Thus, I
-          went on an internship at a semiconductor company.<br></br> I worked as an
-          assistant in the FAE department in QST Corporation (Semiconductors,
-          Shanghai). I was responsible for testing the accelerometer (QMI8610)
-          and Gyroscope Sensor (QMI8658) with large bias, recording the data and
-          writing codes with Python to process those data. I also did some PCB welding works.
+          During the Covid-19 pandemic, I decided to take a leave from my
+          studies at UNSW for one term. Despite having a bachelor's degree in
+          mechanical engineering, I had little knowledge of programming. To
+          improve my skills, I pursued an internship at QST Corporation, a
+          semiconductor company in Shanghai. <br></br>As an assistant in the FAE
+          department, my responsibilities included testing the accelerometer
+          (QMI8610) and Gyroscope Sensor (QMI8658) for large bias, recording
+          data, and using Python to process the data. I also gained experience
+          in PCB welding during my time at the company.
         </p>
       </div>
     </main>
